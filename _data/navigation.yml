@@ -4,8 +4,8 @@ header:
       # @end locale config
     url: /index.html
 
-  - title: Publications
-    url: /pub.html
+  # - title: Publications
+  #   url: /pub.html
 
   - title: Blogs
     url: /blogs.html

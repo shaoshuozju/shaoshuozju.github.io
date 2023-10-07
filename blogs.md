@@ -1,6 +1,6 @@
 ---
 layout: article
-
+title: Blogs
 ---
 ### Previous blogs at CSDN:
 
